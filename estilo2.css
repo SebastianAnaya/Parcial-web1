@@ -1,0 +1,53 @@
+#ficha{
+    width: 600px;
+    margin-top: 80PX;
+}
+
+#name_pre{
+    background-color: aqua;
+    position: relative;
+    display: block;
+    height: 120px;
+    border-radius: 5px;
+    border: 0.5px solid #000;
+}
+h1{
+    text-align: center;
+}
+#happy{
+    height: 100px;
+    padding-top: 15px;
+    padding-left: 30PX;
+}
+
+.iz{
+    position: relative ;
+}
+.der{
+    position: relative;
+    left: 150px;
+    top: -75px;
+}
+p{
+    position: relative;
+    text-align: right;
+    right: 20px;
+    top: -10px;
+    
+}
+h4{
+    position: relative;
+    top: 35px;
+    left: 20px;
+}
+
+.pCorreo, 
+.pTel,
+.pGusto,
+.pPorcentaje{
+    border: 0.5px solid #000;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 5px;
+
+}
